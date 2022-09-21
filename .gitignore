@@ -1,0 +1,14 @@
+
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+/Data Files/
+/Checkpoints/
+/Drivers/
+/Include/
+/Keywords/
+/Reports/
+build.gradle
+console.properties

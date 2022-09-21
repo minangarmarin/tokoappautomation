@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Monitoring Systems</name>
+   <tag></tag>
+   <elementGuidId>ccf394bb-d327-4be5-b8a9-3cf1eb67b3a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;select2--result-phaf-2&quot;)[count(. | //*[@id = 'select2--result-phaf-2' and (text() = 'Monitoring Systems' or . = 'Monitoring Systems')]) = count(//*[@id = 'select2--result-phaf-2' and (text() = 'Monitoring Systems' or . = 'Monitoring Systems')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2--result-phaf-2' and (text() = 'Monitoring Systems' or . = 'Monitoring Systems')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>69672c6b-de9a-4ff8-8524-80e862ab65d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--selectable select2-results__option--highlighted</value>
+      <webElementGuid>9a0757d4-d24e-48c0-9909-1bb6a21e59bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2--result-phaf-2</value>
+      <webElementGuid>7b22697c-b775-4539-8c01-74f0e6faca9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>2ec17e26-666c-43e2-baa5-b9dcaa5af6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-data-select2--result-phaf-2</value>
+      <webElementGuid>13ff96b8-bed6-4b8b-9a9f-62b9348e4299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>80c3853a-ed01-40fd-9f96-9da0852f7425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring Systems</value>
+      <webElementGuid>d1ca7813-07b5-4ccd-98bc-08b54781ad00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2--result-phaf-2&quot;)</value>
+      <webElementGuid>28f33124-bc40-4653-b309-f8c867abd36b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2--result-phaf-2' and (text() = 'Monitoring Systems' or . = 'Monitoring Systems')]</value>
+      <webElementGuid>5388a21e-9734-419b-82ee-5cfc08f35265</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
