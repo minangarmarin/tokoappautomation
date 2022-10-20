@@ -21,28 +21,28 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demosite.executeautomation.com/Login.html')
 
-WebUI.setText(findTestObject('Object Repository/Web Test/Page_Execute Automation/input_Login_UserName'), 'admin')
+WebUI.setText(findTestObject('null'), 'admin')
 
-WebUI.setText(findTestObject('Object Repository/Web Test/Page_Execute Automation/input_Login_Password'), 'admin')
+WebUI.setText(findTestObject('null'), 'admin')
 
-WebUI.click(findTestObject('Object Repository/Web Test/Page_Execute Automation/input_Login_Login'))
+WebUI.click(findTestObject('null'))
 
 WebUI.delay(2)
 
 WebUI.takeFullPageScreenshot('D:\\test\\TC01.jpg')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Web Test/Page_Execute Automation/select_SelectMr.Ms'), '1', 
+WebUI.selectOptionByValue(findTestObject('null'), '1', 
     true)
 
-WebUI.setText(findTestObject('Object Repository/Web Test/Page_Execute Automation/input_Initial_Initial'), 'AR')
+WebUI.setText(findTestObject('null'), 'AR')
 
-WebUI.setText(findTestObject('Object Repository/Web Test/Page_Execute Automation/input__FirstName'), 'MINANG')
+WebUI.setText(findTestObject('null'), 'MINANG')
 
-WebUI.setText(findTestObject('Object Repository/Web Test/Page_Execute Automation/input_Middle Name_MiddleName'), 'ARMARIN')
+WebUI.setText(findTestObject('null'), 'ARMARIN')
 
 WebUI.takeFullPageScreenshot('D:\\test\\TC02.jpg')
 
-WebUI.click(findTestObject('Object Repository/Web Test/Page_Execute Automation/input_EnglishHindi_Save'))
+WebUI.click(findTestObject('null'))
 
 WebUI.closeBrowser()
 
