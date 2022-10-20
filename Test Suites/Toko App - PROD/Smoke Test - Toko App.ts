@@ -33,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>3c6dd079-29f4-4f08-8abe-8f467eb91d2b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Toko App - PROD/Redeem</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>caf2655d-36a3-4163-9e75-7f8719c95f75</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>

@@ -69,7 +69,7 @@ Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('Toko App - PROD/Order - Pilih Beranda'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Beranda - Close Popup1'), 0)
+Mobile.tap(findTestObject('Toko App - PROD/Redeem/Beranda  - Untung'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 

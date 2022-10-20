@@ -21,8 +21,7 @@ Mobile.startExistingApplication('com.dbo.newdboindonesiahd')
 
 Mobile.tap(findTestObject('Toko App - PROD/Login Page - Masuk'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Toko App - PROD/Login Page - Nomor Telepon'), '0895353792793', 
-    0)
+Mobile.setText(findTestObject('Object Repository/Toko App - PROD/Login Page - Nomor Telepon'), '0895353792793', 0)
 
 Mobile.setText(findTestObject('Object Repository/Toko App - PROD/Login Page - Kata Sandi'), 'A123456@!', 0)
 
@@ -30,7 +29,7 @@ Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Login Page - Konfir
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Beranda - Close Popup1'), 0)
+Mobile.tap(findTestObject('Toko App - PROD/Redeem/Beranda  - Untung'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
