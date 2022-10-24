@@ -21,21 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.dbo.id/dashboard')
 
-WebUI.setText(findTestObject('Object Repository/bypass/Page_DBO - login/input_NIK atau Email_NIK'), '8102021')
+WebUI.setText(findTestObject('Object Repository/Toko App Production/bypass/Page_DBO - login/input_NIK atau Email_NIK'), '8102021')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/bypass/Page_DBO - login/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Toko App Production/bypass/Page_DBO - login/input_Password_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.click(findTestObject('Object Repository/bypass/Page_DBO - login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/bypass/Page_DBO - login/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/bypass/Page_DBO - Dashboard/a_Signin'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/bypass/Page_DBO - Dashboard/a_Signin'))
 
-WebUI.click(findTestObject('bypass/Page_DBO - postbypass/span_HDS'))
+WebUI.click(findTestObject('Toko App Production/bypass/Page_DBO - postbypass/span_HDS'))
 
-WebUI.setText(findTestObject('bypass/Page_DBO - postbypass/input__select2-search__field'), 'Monitoring Systems')
+WebUI.setText(findTestObject('Toko App Production/bypass/Page_DBO - postbypass/input__select2-search__field'), 'Monitoring Systems')
 
-WebUI.sendKeys(findTestObject('bypass/Page_DBO - postbypass/input__select2-search__field'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Toko App Production/bypass/Page_DBO - postbypass/input__select2-search__field'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/bypass/Page_DBO - postbypass/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/bypass/Page_DBO - postbypass/button_Sign in'))
 
 WebUI.closeBrowser()
 

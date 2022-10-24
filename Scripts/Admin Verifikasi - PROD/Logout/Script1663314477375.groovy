@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Keluar'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Keluar'))
 
 WebUI.closeBrowser()
 

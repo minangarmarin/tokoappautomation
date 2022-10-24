@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Akun Saya'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Akun Saya'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Akun Saya - Three dot Icon'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Akun Saya - Three dot Icon'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Akun Saya - Keluar'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Akun Saya - Keluar'), 0)
 
 Mobile.closeApplication()
 

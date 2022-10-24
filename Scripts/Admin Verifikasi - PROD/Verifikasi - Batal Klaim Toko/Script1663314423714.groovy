@@ -17,27 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/path'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/path'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_TOKO'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_TOKO'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_UNVERIFIED'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_UNVERIFIED'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Atur Filter'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Atur Filter'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Klaim'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Klaim'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Dalam Masa Pengerjaan'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Dalam Masa Pengerjaan'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/path_1'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/path_1'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_TOKO'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_TOKO'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Atur Filter'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Atur Filter'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Tipe TOKO'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Tipe TOKO'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Batal Klaim'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Batal Klaim'))
 
-WebUI.click(findTestObject('Object Repository/Admin Verifikasi - PROD/div_Daftar Data'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Daftar Data'))
 

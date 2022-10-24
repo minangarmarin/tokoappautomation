@@ -17,46 +17,46 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Beranda - Mulai Order Baru'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Beranda - Mulai Order Baru'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Pilih Rucika'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Pilih Rucika'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Pilih Lem'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Pilih Lem'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Pilih Ruglue'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Pilih Ruglue'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Order - Add QTY (Ruglue)'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Add QTY (Ruglue)'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Beli'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Beli'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Order - Pilih Distributor DEMO MU'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Pilih Distributor DEMO MU'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-/*Mobile.tap(findTestObject('Toko App - PROD/Order - Catatan'), 0)
+/*Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Catatan'), 0)
 
 Mobile.hideKeyboard()
 
-Mobile.setText(findTestObject('Toko App - PROD/Order - Catatan'), 'smoke test - order 1 brand', 0)*/
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Order - Catatan'), 'smoke test - order 1 brand', 0)*/
 int timeout = 10
 
-def inputField = findTestObject('Toko App - PROD/Order - Catatan')
+def inputField = findTestObject('Toko App Production/Toko App - PROD/Order - Catatan')
 
 Mobile.tap(inputField, timeout)
 
 Mobile.sendKeys(inputField, 'smoke test - order 1 brand')
 
-Mobile.tap(findTestObject('Toko App - PROD/Order - Header Catatan'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Header Catatan'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Next Page'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Next Page'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Konfirmasi order'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Close popup'), 0)
+Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Close popup'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Toko App - PROD/Order - Pilih Order Baru'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Pilih Order Baru'), 0)
 
 Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
 

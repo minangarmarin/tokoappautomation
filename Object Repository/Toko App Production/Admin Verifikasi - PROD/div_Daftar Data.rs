@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Daftar Data</name>
+   <tag></tag>
+   <elementGuidId>61344339-5928-4c74-bdd1-3a2c30428302</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1y4jycc.r-wgabs5.r-1loqt21.r-1pi2tsx.r-1777fci.r-1fz3rvf.r-1otgn73.r-eafdt9.r-1i6wzkk.r-lrvibr > div.css-901oao</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5fc3fe07-bed2-4090-a7eb-461388a0a8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>74881cfe-380b-4303-a32a-5771fdfa31dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao</value>
+      <webElementGuid>756eac44-5b4d-4672-b99c-9790a1fa5de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Data</value>
+      <webElementGuid>cd742456-899b-4c53-a034-a8e74b13c52a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-bsco3b r-13awgt0 r-1tsuqlv r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-zxcyg9 r-1quu1zo r-18u37iz r-1ph75f1 r-1wtj0ep r-1guathk r-13qz1uu r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1pi2tsx&quot;]/div[@class=&quot;css-1dbjc4n r-1y4jycc r-wgabs5 r-1loqt21 r-1pi2tsx r-1777fci r-1fz3rvf r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-901oao&quot;]</value>
+      <webElementGuid>8f04f6ec-d991-40b8-bfa4-f85fefd250eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>936214b1-2828-4fd3-afa5-728f3e1bc031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi TOKO'])[1]/following::div[3]</value>
+      <webElementGuid>3816e8fc-e762-46e4-b052-51e3de6fcf34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dalam Masa Pengerjaan'])[1]/preceding::div[1]</value>
+      <webElementGuid>398daf0b-9a92-4497-b1a6-3e87b2c0c645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Data']/parent::*</value>
+      <webElementGuid>90f59a73-d3ff-4ac2-b358-ce0c3a5edda1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>79289f26-ac66-434a-9347-0008beb16bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daftar Data' or . = 'Daftar Data')]</value>
+      <webElementGuid>8d7262ba-2449-448d-b3b5-10cf4c0d4b01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

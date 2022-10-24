@@ -17,13 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://app.cms.dbo.id/')
-
-WebUI.setText(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/Login Page - Input Email'), 'tokodbo01@gmail.com')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/Login Page - Input Password'), 'x3j+iS4X1PFsUDUqkHMXpg==')
-
-WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Masuk'))
-

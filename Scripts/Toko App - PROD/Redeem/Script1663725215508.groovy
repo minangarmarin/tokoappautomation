@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Beranda  - Untung'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Beranda  - Untung'), 0)
 
 Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
@@ -42,7 +42,7 @@ int endY = device_Height * 0.70
 'Swipe Vertical from top to bottom'
 Mobile.swipe(startX, endY, endX, startY)
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Untung - Ewallet2'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Untung - Ewallet2'), 0)
 
 'Swipe Vertical from top to bottom'
 Mobile.swipe(startX, endY, endX, startY)
@@ -74,15 +74,15 @@ Mobile.swipe(startX, endY, endX, startY)
 'Swipe Vertical from top to bottom'
 Mobile.swipe(startX, endY, endX, startY)
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Untung - Link 20k (1)'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Untung - Link 20k (1)'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Untung - Tukar Poin'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Untung - Tukar Poin'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Untung - Pilih Ya'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Untung - Pilih Ya'), 0)
 
 Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Untung - Konfirmasi'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Untung - Konfirmasi'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Redeem/Untung - Close Popup'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Redeem/Untung - Close Popup'), 0)
 

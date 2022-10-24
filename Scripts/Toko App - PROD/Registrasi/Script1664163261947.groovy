@@ -19,60 +19,60 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.dbo.newdboindonesiahd')
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Login Page - Daftar Sekarang'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Login Page - Daftar Sekarang'), 0)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page - Nama Toko'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page - Nama Toko'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'NamaToko', 1), 0)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page - Nomor Telepon'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page - Nomor Telepon'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'NomorTelepon', 1), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page - Lanjut'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page - Lanjut'), 0)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Nomor Telepon Toko'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Nomor Telepon Toko'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'NomorToko', 1), 0)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Alamat Toko'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Alamat Toko'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'AlamatToko', 1), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Provinsi'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Provinsi'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Pilih Provinsi'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Pilih Provinsi'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Kota'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Kota'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Pilih Kota'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Pilih Kota'), 0)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Nama Anda'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Nama Anda'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'NamaAnda', 1), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Posisi'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Posisi'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Pilih Posisi'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Pilih Posisi'), 0)
 
 Mobile.scrollToText('Nama Distributor', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Pilih Merek'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Pilih Merek'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - RUCIKA'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - RUCIKA'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 2 - Save'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 2 - Save'), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regsit Page 2 - Lanjut'), 0)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regsit Page 2 - Lanjut'), 0)
 
 Mobile.scrollToText('Kata Sandi', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page 3 - Password 1'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 3 - Password 1'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'Password', 1), 0)
 
-Mobile.setText(findTestObject('Toko App - PROD/Registrasi/Regist Page 3 - Password 2'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
+Mobile.setText(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 3 - Password 2'), findTestData('Registrasi Toko App/Regsitrasi').getValue(
         'Password', 1), 0)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 3 - Ceklis Syarat'), 0, FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 3 - Ceklis Syarat'), 0, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 3 - Konfirmasi'), 0, FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 3 - Konfirmasi'), 0, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.delay(10, FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Toko App - PROD/Registrasi/Regist Page 4 - Kirim'), 0, FailureHandling.STOP_ON_FAILURE)
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Registrasi/Regist Page 4 - Kirim'), 0, FailureHandling.STOP_ON_FAILURE)
 

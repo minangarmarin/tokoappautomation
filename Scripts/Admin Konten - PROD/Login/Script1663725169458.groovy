@@ -21,20 +21,20 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.cms.dbo.id/')
 
-WebUI.setText(findTestObject('Object Repository/Admin Konten/input_Email_MuiInputBase-input MuiOutlinedI_f297b5'), '')
+WebUI.setText(findTestObject('Object Repository/Toko App Production/Admin Konten/input_Email_MuiInputBase-input MuiOutlinedI_f297b5'), '')
 
-WebUI.click(findTestObject('Object Repository/Admin Konten/div_Email Kata Sandi Masuk'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Konten/div_Email Kata Sandi Masuk'))
 
-WebUI.setText(findTestObject('Object Repository/Admin Konten/input_Email_MuiInputBase-input MuiOutlinedI_f297b5'), 'dbo1@admin.com')
+WebUI.setText(findTestObject('Object Repository/Toko App Production/Admin Konten/input_Email_MuiInputBase-input MuiOutlinedI_f297b5'), 'dbo1@admin.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin Konten/input_Kata Sandi_MuiInputBase-input MuiOutl_9c0fb1'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Toko App Production/Admin Konten/input_Kata Sandi_MuiInputBase-input MuiOutl_9c0fb1'), 
     'CSt51UwWECc=')
 
-WebUI.click(findTestObject('Object Repository/Admin Konten/div_Masuk'))
+WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Konten/div_Masuk'))
 
-WebUI.scrollToElement(findTestObject('Admin Konten/div_KODE REFERRAL SALESMAN'), 0)
+WebUI.scrollToElement(findTestObject('Toko App Production/Admin Konten/div_KODE REFERRAL SALESMAN'), 0)
 
 WebUI.delay(2)
 
-WebUI.scrollToElement(findTestObject('Admin Konten/div_Admin'), 0)
+WebUI.scrollToElement(findTestObject('Toko App Production/Admin Konten/div_Admin'), 0)
 

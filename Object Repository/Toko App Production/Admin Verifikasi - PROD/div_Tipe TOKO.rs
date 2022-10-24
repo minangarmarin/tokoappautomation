@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tipe TOKO</name>
+   <tag></tag>
+   <elementGuidId>0edb128e-8751-4476-8e49-7f1089ebc0ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div[2]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e416260-de21-4d4c-a677-3f1f3bcfd766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2c4f434e-41aa-41a4-9557-35f72139ad39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao</value>
+      <webElementGuid>ef716f20-df08-4ac8-b26b-26c168a0b4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipe: TOKO</value>
+      <webElementGuid>2f356274-8c76-48f2-b3c2-220a81e1938b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-bsco3b r-13awgt0 r-1tsuqlv r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1pi2tsx&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-tiot2n r-13l2t4g r-5kkj8d r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-fhgm25 r-qklmqi r-tiot2n r-77kkyh r-119zq30 r-1loqt21 r-d23pfw r-1otgn73&quot;]/div[@class=&quot;css-901oao&quot;]</value>
+      <webElementGuid>49244383-16ac-442d-ada5-8c41e0e6b455</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div[2]/div/div/div[3]</value>
+      <webElementGuid>516ffa9e-cc63-438d-9cca-7cf3d33df076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTA PALEMBANG'])[1]/following::div[1]</value>
+      <webElementGuid>e702283d-3883-42a9-8713-12b647b9972a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sri Mandiri'])[1]/following::div[4]</value>
+      <webElementGuid>0eb520a5-b462-4a70-baa6-06db52ae721a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Toko'])[1]/preceding::div[1]</value>
+      <webElementGuid>9280c9bc-3137-4855-ba84-34a49778525e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sri Mandiri'])[2]/preceding::div[3]</value>
+      <webElementGuid>044c9285-8675-4fea-aa27-8609cdab5483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipe']/parent::*</value>
+      <webElementGuid>f483af73-ecff-4273-a119-26cd1a876393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>975d2e00-ea38-41c2-9568-d6d05dab4983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tipe: TOKO' or . = 'Tipe: TOKO')]</value>
+      <webElementGuid>9cc5f52c-a49a-451d-80e4-0dd831da43a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
