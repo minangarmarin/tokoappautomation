@@ -50,7 +50,9 @@ Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Header Ca
 
 Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Next Page'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Toko App - PROD/Order - Konfirmasi order'), 0)
+Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Konfirmasi Order 2'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Toko App Production/Toko App - PROD/Order - Close popup'), 0)
 

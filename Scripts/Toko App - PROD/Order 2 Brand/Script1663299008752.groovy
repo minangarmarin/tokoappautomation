@@ -51,6 +51,8 @@ Mobile.tap(inputField, timeout)
 
 Mobile.sendKeys(inputField, 'smoke test - order 2 brand')
 
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Header Catatan'), 0)
+
 Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Next Page'), 0)
 
 Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order2 - Pilih Distributor DEMO MU'), 0)
@@ -58,6 +60,8 @@ Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order2 - Pilih Di
 Mobile.tap(inputField, timeout)
 
 Mobile.sendKeys(inputField, 'smoke test - order 2 brand')
+
+Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Header Catatan'), 0)
 
 Mobile.tap(findTestObject('Toko App Production/Toko App - PROD/Order - Next Page'), 0)
 
