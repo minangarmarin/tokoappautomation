@@ -19,30 +19,23 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>23f35316-beb4-47d4-b733-a91813168ca1</guid>
+      <guid>bef2d31a-77ed-4b08-9d60-07618c6e0771</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Toko App - PROD/Order 1 Brand</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>62e9d668-5379-4ab8-b161-2d5873b619f8</guid>
+      <guid>5135746b-9c0a-4c38-865f-4f4a1be19a3f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Toko App - PROD/Order 2 Brand</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3c6dd079-29f4-4f08-8abe-8f467eb91d2b</guid>
+      <guid>fde2ce4a-bff1-4ef5-b4e3-7d249c3c6f51</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Toko App - PROD/Redeem</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>caf2655d-36a3-4163-9e75-7f8719c95f75</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
       <testCaseId>Test Cases/Toko App - PROD/Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
