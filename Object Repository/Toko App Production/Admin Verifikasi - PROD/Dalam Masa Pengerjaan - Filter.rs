@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dalam Masa Pengerjaan - Filter</name>
+   <tag></tag>
+   <elementGuidId>4e6acfa2-9ee4-4a06-b401-3b18a68e7a2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.css-bfa6kz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c1c2b3f-1d70-4f65-a0c2-36fcd2aea02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>8b827b2b-699c-4e1b-a849-cf26edac9298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz</value>
+      <webElementGuid>48b9e004-7aa1-4f35-a9d3-015ce4580028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saring</value>
+      <webElementGuid>536d5a77-3e27-4f0f-aa9b-e6b1df7d044e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-bsco3b r-13awgt0 r-1tsuqlv r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1pi2tsx&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-tiot2n r-13l2t4g r-5kkj8d r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-qklmqi r-tiot2n r-1guathk r-1yzf0co&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-tiot2n r-1jkafct r-rs99b7 r-1loqt21 r-18u37iz r-1wtj0ep r-ymttw5 r-5njf8e r-1otgn73 r-eafdt9 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-901oao css-bfa6kz&quot;]</value>
+      <webElementGuid>6d4063e4-1a75-4773-8067-55d40cb28810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>4a104161-8560-472c-841f-9a14892867b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::div[2]</value>
+      <webElementGuid>b278d21d-fa81-4e18-bba2-8a3e0a17fae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Dikerjakan'])[1]/following::div[8]</value>
+      <webElementGuid>04322add-51ed-4132-bdb6-96301d1158eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semesta Indah'])[1]/preceding::div[1]</value>
+      <webElementGuid>213a5bd2-9d72-47c5-a35b-26ff4c86332b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KABUPATEN TANGERANG'])[1]/preceding::div[3]</value>
+      <webElementGuid>06749fa9-5a8e-4548-b750-4bc9106ea00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saring']/parent::*</value>
+      <webElementGuid>d13b8cf5-9c07-40e7-bbbb-aa0468528a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>9ed4265c-78cc-459b-96d7-ee839ceda7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Saring' or . = 'Saring')]</value>
+      <webElementGuid>d73cc9bb-eb25-4048-8cce-d91db6a2b45c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

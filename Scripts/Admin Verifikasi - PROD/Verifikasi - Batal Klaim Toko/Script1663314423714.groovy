@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/path'))
+WebUI.click(findTestObject('Toko App Production/Admin Verifikasi - PROD/div_Saring'))
 
 WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_TOKO'))
 
@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifika
 
 WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_Dalam Masa Pengerjaan'))
 
-WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/path_1'))
+WebUI.click(findTestObject('Toko App Production/Admin Verifikasi - PROD/Dalam Masa Pengerjaan - Filter'))
 
 WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Verifikasi - PROD/div_TOKO'))
 
