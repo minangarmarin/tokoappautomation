@@ -1,4 +1,4 @@
-/bin/lib
+/bin/lib/Temp*.class
 /bin/Temp*.class
 /Libs/Temp*.groovy
 /.settings/
