@@ -1,6 +1,6 @@
-
-/bin/
-/Libs/
+/bin/lib
+/bin/Temp*.class
+/Libs/Temp*.groovy
 /.settings/
 /.classpath
 .svn/
@@ -10,5 +10,8 @@
 /Include/
 /Keywords/
 /Reports/
+bin/keyword/
 build.gradle
 console.properties
+/Libs/
+/.project
