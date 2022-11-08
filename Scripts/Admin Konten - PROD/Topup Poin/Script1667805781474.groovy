@@ -17,28 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Homepage - Poin Loyalti'))
 
-WebUI.navigateToUrl('https://app.cms.dbo.id/')
+WebUI.setText(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Cari Toko'), 'toko demo gamifikasi1')
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Button Cari'))
 
-WebUI.setText(findTestObject('Object Repository/Toko App Production/Admin Konten/input_Email_MuiInputBase-input MuiOutlinedI_f297b5'), 
-    '')
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - LIHAT RINCIAN'))
 
-WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Konten/div_Email Kata Sandi Masuk'))
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Pilih Brand'))
 
-WebUI.setText(findTestObject('Object Repository/Toko App Production/Admin Konten/input_Email_MuiInputBase-input MuiOutlinedI_f297b5'), 
-    'dbo1@admin.com')
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Pilih Brand Rucika'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Toko App Production/Admin Konten/input_Kata Sandi_MuiInputBase-input MuiOutl_9c0fb1'), 
-    'CSt51UwWECc=')
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Pilih Tipe'))
 
-WebUI.click(findTestObject('Object Repository/Toko App Production/Admin Konten/div_Masuk'))
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Pilih Tipe Transaksi'))
 
-not_run: WebUI.scrollToElement(findTestObject('Toko App Production/Admin Konten/div_KODE REFERRAL SALESMAN'), 0)
+WebUI.setText(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Input Poin'), '1')
 
-not_run: WebUI.delay(2)
+WebUI.setText(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Input Catatan'), 'smoke test - demo topup poin')
 
-not_run: WebUI.scrollToElement(findTestObject('Toko App Production/Admin Konten/div_Admin'), 0)
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Tambah Poin'))
+
+WebUI.click(findTestObject('Toko App Production/Admin Konten/Poin Loyalti - Konfirmasi topup'))
 

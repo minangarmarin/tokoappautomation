@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Poin Loyalti - Tambah Poin</name>
+   <tag></tag>
+   <elementGuidId>9221fd50-f24f-4c6f-a2f9-74c0a6340c9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[7]/div[2]/button/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-4remjh.r-qklmqi.r-1peese0.r-qn3fzs > div.css-1dbjc4n.r-1awozwy.r-18u37iz > button.MuiButtonBase-root.MuiButton-root.MuiButton-text.jss249.jss253.MuiButton-disableElevation > span.MuiButton-label > div.css-901oao</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69e1ba75-1cbc-4ecc-8d98-6cee449bdfea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>b902deb3-9bcc-4589-b7dc-09a8a4dd0d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao</value>
+      <webElementGuid>1b21730d-8178-4bcf-b949-f84dbc14431a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Poin</value>
+      <webElementGuid>8e0afd86-20dc-41c3-b667-1a95ab7ded92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-hfja1k&quot;]/div[@class=&quot;css-1dbjc4n r-4remjh r-qklmqi r-1peese0 r-qn3fzs&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text jss249 jss253 MuiButton-disableElevation&quot;]/span[@class=&quot;MuiButton-label&quot;]/div[@class=&quot;css-901oao&quot;]</value>
+      <webElementGuid>2fecf385-1079-4111-ad4c-96a87dc911b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[7]/div[2]/button/span/div</value>
+      <webElementGuid>eec67541-7732-4927-95e2-f16c7f44824e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[3]/following::div[1]</value>
+      <webElementGuid>04c55b71-3510-46cc-9fbe-93b8c830b9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::div[5]</value>
+      <webElementGuid>7765aa6c-5f00-426e-8687-2c5bdc8aaf64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/preceding::div[1]</value>
+      <webElementGuid>07bcca4f-0724-494d-a688-bb91849d9bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Rentang Tanggal'])[1]/preceding::div[2]</value>
+      <webElementGuid>fa6adba2-6311-45e9-883c-50ef4215d99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/div</value>
+      <webElementGuid>3fd5fc61-d480-4657-b60a-d1f4c20f892d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tambah Poin' or . = 'Tambah Poin')]</value>
+      <webElementGuid>fb00acd2-5c63-4003-be02-e40e20bbe590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

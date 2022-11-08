@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Poin Loyalti - LIHAT RINCIAN</name>
+   <tag></tag>
+   <elementGuidId>58a5140c-1ae5-42b7-a318-9aa8aa5b1053</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[3]/div/table/tbody/tr/td[5]/button/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.MuiTableCell-root.jss407.MuiTableCell-body.MuiTableCell-sizeSmall > button.MuiButtonBase-root.MuiButton-root.MuiButton-text.jss249.jss253.MuiButton-disableElevation > span.MuiButton-label > div.css-901oao</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c64911a-7efa-443b-8c29-c521b070c177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2c682e23-0381-420c-b72d-fe9b4735e694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao</value>
+      <webElementGuid>8e4cd614-bf93-40f2-98a6-06d2a667f7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>lihat rincian</value>
+      <webElementGuid>5fac0373-4919-4ef9-b597-b0036d0320d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-hfja1k&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;MuiTableContainer-root jss406&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root&quot;]/td[@class=&quot;MuiTableCell-root jss407 MuiTableCell-body MuiTableCell-sizeSmall&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-text jss249 jss253 MuiButton-disableElevation&quot;]/span[@class=&quot;MuiButton-label&quot;]/div[@class=&quot;css-901oao&quot;]</value>
+      <webElementGuid>db7bc0be-7ead-404e-b483-bca754a2282c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[3]/div/table/tbody/tr/td[5]/button/span/div</value>
+      <webElementGuid>6854c6a0-5264-47a3-9833-17d021ba8ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KABUPATEN MUSI BANYUASIN'])[1]/following::div[2]</value>
+      <webElementGuid>ac889d17-fcda-4a2e-bfcd-5f589489dfc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUMATERA SELATAN'])[1]/following::div[3]</value>
+      <webElementGuid>b03c0858-cfea-4465-ab19-e82e37361e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[7]</value>
+      <webElementGuid>cb54813a-c984-4805-88b9-c0f6dd9edd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[7]</value>
+      <webElementGuid>fd02bd52-78b9-4186-a036-1c1ca35358a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='lihat rincian']/parent::*</value>
+      <webElementGuid>9b616c5b-9790-423e-a759-6de5751e98bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/button/span/div</value>
+      <webElementGuid>c3e7b008-3428-4cce-90de-b98b6298e53d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'lihat rincian' or . = 'lihat rincian')]</value>
+      <webElementGuid>5db4c0cc-a97a-4f48-9d32-6399e5c3bc4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
